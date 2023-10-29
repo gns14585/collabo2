@@ -1,2 +1,7 @@
 b
+<<<<<<< HEAD
 bbb
+=======
+bb
+df
+>>>>>>> branch1
