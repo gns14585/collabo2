@@ -1,14 +1,7 @@
 a
 aa
 aaa
-<<<<<<< HEAD
 sdk
 aa
 aa
-=======
-aaaa
-leejung
-leejunghoon
-adfken
->>>>>>> branch1
 aaa
